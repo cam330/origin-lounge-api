@@ -1,0 +1,17 @@
+{
+  "name": "origin-lounge-api",
+  "homepage": "https://github.com/cam330/astro-weight",
+  "authors": [
+    "cam330 <wilcoxcam@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
